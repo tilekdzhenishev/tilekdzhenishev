@@ -5,7 +5,7 @@ I'm a programming enthusiast and Computer Science student at Collegium Da Vinci 
 🚀 Toolbox: JavaScript, ReactJS, NextJS, NodeJS, Python, Postgresql
 
 ### Let's Connect!
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/tilya_dzhenishev/)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/tileknology/)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=007BB6)](https://www.linkedin.com/in/tilek-dzhenishev-444816208/)
 
 
