@@ -18,13 +18,6 @@ Currently building **Nuroo**, an early childhood task assistant to support kids 
 
 ---
 
-### 🚀 Projects
-
-- [**Nuroo**](https://github.com/manavolt-studio) — AI-powered assistant for kids with unique needs  
-
----
-
 ### 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tilek-dzhenishev-444816208/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/tileknology/)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/tileknology/) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tilek-dzhenishev-444816208/)
