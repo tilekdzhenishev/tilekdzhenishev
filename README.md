@@ -1,14 +1,30 @@
-## Hey, I am Tilek Dzhenishev 👋
+## Hey, I'm Tilek Dzhenishev 👋
 
-I'm a programming enthusiast and Computer Science student at Collegium Da Vinci with a specialization in software engineering. I was born in Kyrgyzstan and currently live in Poland. Let's connect and explore the endless possibilities at the intersection of technology, creativity, and human interaction.
+I'm a **founder**, product builder, and computer science student passionate about using technology to make a meaningful impact — especially in the space of **education and neurodiversity**.
 
-🚀 Toolbox: JavaScript, ReactJS, NextJS, NodeJS, Python, Postgresql
+Currently building **Nuroo**, an early childhood task assistant to support kids with developmental differences and their families.
 
-### Let's Connect!
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/tileknology/)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=007BB6)](https://www.linkedin.com/in/tilek-dzhenishev-444816208/)
+🌍 Born in **Kyrgyzstan**, now based in **Poland**.  
+🎓 Studying **Software Engineering** at Collegium Da Vinci.  
+💡 Driven by curiosity, compassion, and the belief that code can change lives.
 
+---
 
+### 🧰 Tech Toolbox:
+- **Frontend:** JavaScript, ReactJS, Next.js, Expo, TailwindCSS  
+- **Backend:** Node.js, Express, Firebase, OpenAI API  
+- **Databases:** Firestore, PostgreSQL  
+- **AI/ML:** Prompt Engineering, API Integration
 
+---
 
+### 🚀 Projects
 
+- [**Nuroo**](https://github.com/manavolt-studio) — AI-powered assistant for kids with unique needs  
+
+---
+
+### 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tilek-dzhenishev-444816208/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/tileknology/)
