@@ -4,19 +4,15 @@ I'm a **Software Engineer**, product builder, and computer science student passi
 
 Currently building **[Nuroo](https://www.usenuroo.com)** — an AI-powered early childhood task assistant that helps parents support kids with developmental differences and make therapy more accessible and effective.  
 
-🌍 Born in **Kyrgyzstan**, now based in **Poland**.  
-🎓 Studying **Software Engineering** at Collegium Da Vinci.  
-💡 Driven by curiosity, compassion, and the belief that code can change lives.  
-
----
+Born in **Kyrgyzstan**, now based in **Poland**.  
+Studying **Software Engineering** at Collegium Da Vinci.  
+Driven by curiosity, compassion, and the belief that code can change lives.  
 
 ###  Tech Toolbox
 - **Frontend:** JavaScript, ReactJS, Next.js, Expo, TailwindCSS  
 - **Backend:** Node.js, Express, Firebase, OpenAI API  
 - **Databases:** Firestore, PostgreSQL  
 - **AI/ML:** Prompt Engineering, API Integration  
-
----
 
 ###  Featured Project  
 **Nuroo-AI Therapy Assistant for Kids**  
